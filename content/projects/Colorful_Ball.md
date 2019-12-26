@@ -1,6 +1,5 @@
 ---
 title: "Colorful Ball"
-draft: true
 weight: 1
 featured_image: "projects/Colorful_Ball/banner.jpg"
 play_on_android: "https://play.google.com/store/apps/details?id=org.godotengine.colorfulball"

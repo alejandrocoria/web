@@ -1,6 +1,5 @@
 ---
 title: "P-Changer"
-draft: true
 weight: 2
 featured_image: "projects/P-Changer/banner.jpg"
 play_on_itchio: "https://darkphantom.itch.io/p-changer"
