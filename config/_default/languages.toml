@@ -1,0 +1,9 @@
+[en]
+  title = "Alejandro Coria Games"
+  languageName = "English"
+  weight = 1
+
+[es]
+  title = "Alejandro Coria Games"
+  languageName = "Español"
+  weight = 2

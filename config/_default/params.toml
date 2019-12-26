@@ -1,0 +1,128 @@
+logoText = "Alejandro Coria Games" # Logo text that appears in the site navigation bar.
+description = "Site of the video games created by Alejandro Coria." # for SEO
+custom_css = [] # custom_css = ["scss/custom.scss"] and then make file at root/assets/scss/custom.scss
+custom_js = [] # custom_js = ["js/custom.js"] and then make file at root/assets/js/custom.js
+
+# header
+homeHeaderType = "text" # text, img, slide
+
+# navbar
+enableThemeChange = false # site color theme
+enableThemeSwitch = true
+
+# body
+enableBreadcrumb = false # breadcrumb for list, single page
+enablePhotoSwipe = true # image viewer for gallery, single page
+enableSearch = false # site search with Fuse
+enableGoToTop = true # scroll to top
+enableWhoami = false # at the end of single page
+summaryShape = "custom" # card, classic, compact
+archiveGroupByDate = "" # "2006-01": group by month, "2006": group by year
+archivePaginate = 99 # items per page
+paginateWindow = 1 # setting it to 1 gives 7 buttons, 2 gives 9, etc. If set 1: [1 ... 4 5 6 ... 356] [1 2 3 4 5 ... 356] etc
+
+# whoami: usage - home page sidebar, single page bottom of post. all values can be empty
+myname = "Alejandro Coria"
+email = "contact@alejandrocoria.games"
+whoami = ""
+location = "Argentina"
+organization = ""
+link = ""
+
+# sidebar
+enableBio = true # home page sidebar
+enableSidebar = true # Set to false to create the full width of the content.
+enableSidebarTags = true # if you want to use tags.
+enableSidebarSeries = false
+enableSidebarCategories = false
+enableToc = false # single page table of contents
+enableTocSwitch = false # single page table of contents visibility switch
+itemsPerCategory = 0 # maximum number of posts shown in the sidebar.
+
+# footer
+showPoweredBy = true # show footer text: Powered by Hugo and Zzo theme
+showFeedLinks = false # RSS Feed 
+showSocialLinks = true # email, facebook, twitter ...
+enableLangChange = true # show button at bottom left of footer.
+themeOptions = ["dark", "light"] # select options for site color theme
+
+# service
+baiduAnalytics = "" # alternative of google analytics
+enableBusuanzi = false # if set true, total page view, total unique visitors show up in the footer.
+busuanziSiteUV = true # unique visitors (total number of visitors)
+busuanziSitePV = true # site total page view count
+busuanziPagePV = true # post view count
+
+# comment
+enableComment = false
+disqus_shortname = "" 
+commento = false
+
+[gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
+  owner = ""              # Your GitHub ID
+  repo = ""               # The repo to store comments
+  clientId = ""           # Your client ID
+  clientSecret = ""       # Your client secret
+
+[utterances]       # https://utteranc.es/
+  owner = ""              # Your GitHub ID
+  repo = ""               # The repo to store comments
+
+[gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
+  owner = ""              # Your GitHub ID
+  repo = ""               # The repo to store comments
+  clientId = ""           # Your client ID
+  clientSecret = ""       # Your client secret
+
+# Valine.
+# You can get your appid and appkey from https://leancloud.cn
+# more info please open https://valine.js.org
+[valine]
+  enable = false
+  appId = '??appId'
+  appKey = '??appKey'
+  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+  verify = false # Verification code
+  avatar = 'mm' 
+  placeholder = '?????...'
+  visitor = false
+
+[changyan]
+  changyanAppid = ""        # Changyan app id             # ??
+  changyanAppkey = ""       # Changyan app key
+
+[livere]
+  livereUID = ""            # LiveRe UID                  # ???
+
+# Isso: https://posativ.org/isso/
+[isso]
+  enable = false
+  scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
+  dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
+
+[socialOptions] # if set, social icons will show up.
+  email = "mailto:contact@alejandrocoria.games"
+  facebook = ""
+  twitter = "https://twitter.com/ThisDarkPhantom"
+  github = "https://github.com/alejandrocoria"
+  stack-overflow = "https://stackoverflow.com/users/2647614/darkphantom?tab=profile"
+  instagram = ""
+  google-plus = ""
+  youtube = ""
+  medium = ""
+  tumblr = ""
+  linkedin = "https://www.linkedin.com/in/alejandrocoria/"
+  pinterest = ""
+  stack-exchange = "https://stackexchange.com/users/3129448/darkphantom?tab=accounts"
+  telegram = ""
+  steam = ""
+  twitch-curseforge = "https://www.curseforge.com/members/meme_sapiens/projects"
+  itchio = "https://darkphantom.itch.io/"
+  kongregate = "https://www.kongregate.com/accounts/AlejandroCoria"
+
+[donationOptions] 
+  enable = false # if set, the donation button will show up on the single page.
+  alipay = "" # Alipay QR Code image (example path: images/donation/alipay-qrcode.png) and put your file at root/static/images/donation/
+  wechat = "" # Wechat pay QR Code image (example path: same as above)
+  paypal = "" # Paypal URL
+  patreon = "" # Patreon URL
