@@ -1,6 +1,6 @@
 ---
 title: "P-Changer"
-weight: 2
+weight: 4
 featured_image: "projects/P-Changer/banner.jpg"
 play_on_itchio: "https://darkphantom.itch.io/p-changer"
 play_on_kongregate: "https://www.kongregate.com/games/AlejandroCoria/p-changer"
