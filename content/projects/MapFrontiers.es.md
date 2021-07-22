@@ -10,4 +10,4 @@ tags: ["Mod de Minecraft", "Mapa", "Complemento", "Java", "Software libre"]
 
 Este mod es un complemento para [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap) que te permite dividir el mapa en regiones y asignarles nombre, color y bandera.
 
-Necesita Journey Map 1.12.2-5.7.0.
+Necesita Journey Map 1.12.2-5.7.0 o 1.16.5-5.7.3.

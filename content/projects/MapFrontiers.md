@@ -10,4 +10,4 @@ tags: ["Minecraft Mod", "Map", "Addon", "Java", "Free Software"]
 
 This mod is an addon for [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap) that allows you to divide the map into regions and assign them names, colors and a banner.
 
-Need Journey Map 1.12.2-5.7.0.
+Need Journey Map 1.12.2-5.7.0 or 1.16.5-5.7.3.
