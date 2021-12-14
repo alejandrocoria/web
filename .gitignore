@@ -1,2 +1,3 @@
 resources/
 *.bat
+.hugo_build.lock
