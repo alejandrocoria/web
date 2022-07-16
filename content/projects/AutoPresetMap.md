@@ -8,15 +8,6 @@ description: "Minecraft mod that allows you to automatically change the minimap 
 tags: ["Minecraft Mod", "Map", "Addon", "Java", "Free Software"]
 ---
 
-This mod is an addon for [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap)  that changes the minimap preset when you change dimension. Simply press the Change Action key (**O** by default) and you can change what happens when you enter the current dimension.
+This mod is an addon for [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap) that changes the minimap preset when you change dimension. It is for the client (Forge or Fabric), it is not needed on the server.
 
-The options are:
-
-* _Nothing_ (what normally happens without the mod)
-* _Preset 1_ (automatically sets preset 1)
-* _Preset 2_ (automatically sets preset 2)
-* _Default Action_ (what happens in any dimension that you have not configured yet)
-
-It works on the client and is not needed on the server.
-
-Need Journey Map 1.12.2-5.5.5.
+To configure it, use the button to the right on the JourneyMap fullscreen map.

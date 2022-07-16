@@ -8,15 +8,6 @@ description: "Mod de Minecraft que te permite cambiar automáticamente el preset
 tags: ["Mod de Minecraft", "Mapa", "Complemento", "Java", "Software libre"]
 ---
 
-Este mod es un complemento para [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap) que cambia el preset del minimapa cuando cambias de dimensión. Simplemente presiona la tecla de Cambiar Acción (**O** por defecto) y puedes cambiar qué pasa cuando entras a la dimensión actual.
+Este mod es un complemento para [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap) que cambia el preset del minimapa cuando cambias de dimensión. Es para el cliente (Forge o Fabric), no se necesita en el servidor.
 
-Las opciones son:
-
-* _Nada_ (lo que pasa normalmente sin el mod)
-* _Preset 1_ (pone automáticamente el preset 1)
-* _Preset 2_ (pone automáticamente el preset 2)
-* _Acción por Defecto_ (lo que pasa en cualquier dimensión que no configuraste todavía)
-
-Funciona en el cliente y no se necesita en el servidor.
-
-Necesita Journey Map 1.12.2-5.5.5.
+Para configurarlo usa el botón en la derecha en el mapa de pantalla completa de JourneyMap.
