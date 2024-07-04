@@ -20,6 +20,8 @@ The Stack Exchange name and logo are trademarks of Stack Exchange Inc.
 
 The Stack Overflow name and logo are trademarks of Stack Exchange Inc.
 
-CurseForge and the CurseForge logo are trademarks of Twitch Interactive, Inc.
+CurseForge and the CurseForge logo are trademarks of Overwolf.
 
-Twitter and the Twitter logo are trademarks of Twitter, Inc.
+Modrinth and the Modrinth logo are trademarks of Rinth, Inc.
+
+X and the X logo are trademarks of X Corp.

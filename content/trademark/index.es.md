@@ -20,6 +20,8 @@ El nombre y logotipo de Stack Exchange son marcas comerciales de Stack Exchange 
 
 El nombre y logotipo de Stack Overflow son marcas comerciales de Stack Exchange Inc.
 
-CurseForge y el logotipo de CurseForge son marcas comerciales de Twitch Interactive, Inc.
+CurseForge y el logotipo de CurseForge son marcas comerciales de Overwolf.
 
-Twitter y el logotipo de Twitter son marcas comerciales de Twitter, Inc.
+Modrinth y el logotipo de Modrinth son marcas comerciales de Rinth, Inc.
+
+X y el logotipo de X son marcas comerciales de X Corp.

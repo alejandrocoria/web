@@ -103,7 +103,7 @@ commento = false
 [socialOptions] # if set, social icons will show up.
   email = "mailto:contact@alejandrocoria.games"
   facebook = ""
-  twitter = "https://twitter.com/ThisDarkPhantom"
+  x = "https://x.com/ThisDarkPhantom"
   github = "https://github.com/alejandrocoria"
   stack-overflow = "https://stackoverflow.com/users/2647614/darkphantom?tab=profile"
   instagram = ""
@@ -116,7 +116,7 @@ commento = false
   stack-exchange = "https://stackexchange.com/users/3129448/darkphantom?tab=accounts"
   telegram = ""
   steam = ""
-  twitch-curseforge = "https://www.curseforge.com/members/meme_sapiens/projects"
+  curseforge = "https://www.curseforge.com/members/meme_sapiens/projects"
   itchio = "https://darkphantom.itch.io/"
   kongregate = "https://www.kongregate.com/accounts/AlejandroCoria"
 
@@ -125,4 +125,4 @@ commento = false
   alipay = "" # Alipay QR Code image (example path: images/donation/alipay-qrcode.png) and put your file at root/static/images/donation/
   wechat = "" # Wechat pay QR Code image (example path: same as above)
   paypal = "" # Paypal URL
-  patreon = "https://www.patreon.com/bePatron?u=35649893"
+  patreon = "" # The embed no longer works :(
