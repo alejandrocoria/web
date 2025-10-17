@@ -1,6 +1,6 @@
 ---
 title: "Auto\u200bPreset\u200bMap"
-weight: 3
+weight: 6
 featured_image: "projects/AutoPresetMap/banner.jpg"
 link_to_curseforge: "https://www.curseforge.com/minecraft/mc-mods/autopresetmap"
 view_on_github: "https://github.com/alejandrocoria/AutoPresetMap"
