@@ -103,9 +103,9 @@ commento = false
 [socialOptions] # if set, social icons will show up.
   email = "mailto:contact@alejandrocoria.games"
   facebook = ""
-  x = "https://x.com/ThisDarkPhantom"
+  x = "https://x.com/AleCoriaGames"
   github = "https://github.com/alejandrocoria"
-  stack-overflow = "https://stackoverflow.com/users/2647614/darkphantom?tab=profile"
+  stack-overflow = "https://stackoverflow.com/users/2647614/alejandrocoriagames?tab=profile"
   instagram = ""
   google-plus = ""
   youtube = ""
@@ -113,11 +113,11 @@ commento = false
   tumblr = ""
   linkedin = "https://www.linkedin.com/in/alejandrocoria/"
   pinterest = ""
-  stack-exchange = "https://stackexchange.com/users/3129448/darkphantom?tab=accounts"
+  stack-exchange = "https://stackexchange.com/users/3129448/alejandrocoriagames?tab=accounts"
   telegram = ""
   steam = ""
   curseforge = "https://www.curseforge.com/members/meme_sapiens/projects"
-  itchio = "https://darkphantom.itch.io/"
+  itchio = "https://alejandrocoriagames.itch.io/"
   kongregate = "https://www.kongregate.com/accounts/AlejandroCoria"
 
 [donationOptions] 
